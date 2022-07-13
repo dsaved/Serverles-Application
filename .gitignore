@@ -125,3 +125,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+sls config credentials.txt
+sls invoke local.txt
